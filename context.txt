@@ -2,3 +2,5 @@
 
 - Improved database query performance.
 
+- Addressed crash on startup for some devices.
+
