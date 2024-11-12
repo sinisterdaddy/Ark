@@ -6,3 +6,5 @@
 
 - Updated API documentation.
 
+- Implemented dark mode.
+
