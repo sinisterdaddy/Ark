@@ -10,3 +10,5 @@
 
 - Resolved CORS errors on login.
 
+- Fixed issue with form validation.
+
