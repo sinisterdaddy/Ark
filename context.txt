@@ -12,3 +12,5 @@
 
 - Fixed issue with form validation.
 
+- Optimized CSS for performance.
+
