@@ -16,3 +16,5 @@
 
 - Refactored codebase for better readability.
 
+- Added user authentication.
+
